@@ -1,0 +1,14 @@
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\bin\Debug\net8.0\codingpractice_A.exe
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\bin\Debug\net8.0\codingpractice_A.deps.json
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\bin\Debug\net8.0\codingpractice_A.runtimeconfig.json
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\bin\Debug\net8.0\codingpractice_A.dll
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\bin\Debug\net8.0\codingpractice_A.pdb
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\codingpractice_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\codingpractice_A.AssemblyInfoInputs.cache
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\codingpractice_A.AssemblyInfo.cs
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\codingpractice_A.csproj.CoreCompileInputs.cache
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\codingpractice_A.dll
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\refint\codingpractice_A.dll
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\codingpractice_A.pdb
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\codingpractice_A.genruntimeconfig.cache
+C:\Users\omgit\source\repos\codingpractice_A\codingpractice_A\obj\Debug\net8.0\ref\codingpractice_A.dll
